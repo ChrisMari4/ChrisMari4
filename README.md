@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am a student at Polytechnic University of Milan, holding a bachelor's degree in Management Engineering and currently enrolled in Computer Science and Engineering. During my undergraduate studies, I served as a coding tutor for C programming, demonstrating my strong passion for this field. My desire to delve deeper into these topics, not only independently but also within an academic setting, led me to switch my engineering focus for my master's degree. Additionally, I have enrolled in an online course on Blockchain Development at Start2Impact University.
 
 <!--
 **ChrisMari4/ChrisMari4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
